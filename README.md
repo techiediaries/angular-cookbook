@@ -1,4 +1,4 @@
-# Angular 10/9 CookBook
+# Angular 10/9 Cookbook
 
 Throughout this cookbook examples you'll learn Angular--one of the most popular platforms for building front-end web applications
 
