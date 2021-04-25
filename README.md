@@ -28,7 +28,7 @@ The concept of  [directives](https://docs.angularjs.org/guide/directive)  was al
 
 The other introduced concept is  [Dependency Injection](https://docs.angularjs.org/guide/di), which allows developers to inject what's called services (singletons that encapsulates a unique and re-usable functionality within an application) into other components which encourages re-usability of the code.
 
-## Why Learning Angular 10?
+## Why Learn Angular 10?
 
 By learning Angular, you'll have more chances of finding a job as a front-end developer! So in this learning path, will teach you the framework through building several examples from scratch.
 
